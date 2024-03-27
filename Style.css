@@ -1,0 +1,174 @@
+body{
+    background-color: rgb(66, 84, 84);
+}
+
+.profile-img{
+    position: relative;
+    left: 640px;
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.imagenes{
+    position: relative;
+    width: 300px;
+    border-radius: 10px;
+
+}
+.imagen-4{
+    position: relative;
+    width: 200px;
+    border-radius: 10px;
+}
+
+#Titulo{
+    position: relative;
+    left: 550px;
+}
+
+.title-1{
+    position: relative;
+    left: 550px;
+}
+
+.menu{
+    color: green;
+    position: relative;
+    left: 600px;
+    font-family: Arial, sans-serif;
+}
+
+#header{
+    display:block;
+    padding: 20px;
+    background-color: #1b1f31;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: white;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    
+}
+.footer{
+    background-color: #90a0e4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+
+.plato-1{
+    display: block;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    background-color: #c1c8e6;
+
+}
+
+.plato-2{
+    display: block;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    background-color: #c1c8e6;
+    position: relative;
+    left: 500px;
+    top: -390px;
+}
+
+.plato-3{
+    display: block;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    background-color: #c1c8e6;
+    position: relative;
+    left: 1000px;
+    top: -765px;
+}
+
+#plato-4{
+    display: block;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    background-color: #c1c8e6;
+    position: relative;
+    left: 500px;
+    top: -300px;
+}
+
+.plato-4{
+    display: block;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    background-color: #c1c8e6;
+    position: relative;
+    left: 500px;
+    top: -700px;
+}
+
+.Link-pagina-2{
+    display: block;
+    padding: 15px;
+    max-width: 300px;
+    border-radius: 25px;
+    background-color:#c1c8e6;
+    position: absolute;
+    left: 1300px;
+    top: 50px;
+}
+
+.navbar-item{
+    color:#1b1f31;
+    text-align: center;
+    
+    
+}
+
+.inicio{
+    display: block;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    background-color: #c1c8e6;
+    position: relative;
+    
+}
+
+.container-1{
+    position: relative;
+    left: 50px;
+}
+
+.container-2{
+    position: relative;
+    top: -600px;
+    left: 50px;
+}
+.container-3{
+    position: relative;
+    top: -1000px;
+    left: 50px;
+
+}
+
+
+
