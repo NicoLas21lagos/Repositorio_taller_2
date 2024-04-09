@@ -68,7 +68,20 @@ body{
     margin-bottom: 10px;
     max-width: 300px;
     background-color: #c1c8e6;
+    top: 600px;
 
+}
+
+.plato-uno{
+    display: block;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    background-color: #c1c8e6;
+    top: 600px;
+    left: -500px;
 }
 
 .plato-2{
@@ -107,7 +120,7 @@ body{
     background-color: #c1c8e6;
     position: relative;
     left: 500px;
-    top: -300px;
+    top: -700px;
 }
 
 .plato-4{
@@ -118,7 +131,7 @@ body{
     margin-bottom: 10px;
     max-width: 300px;
     background-color: #c1c8e6;
-    position: relative;
+    position: absolute;
     left: 500px;
     top: -700px;
 }
